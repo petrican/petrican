@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/petrican/petrican/master/github_petrica_nanca.png" alt="Petrica Nanca banner - software engineer">
-
 More about me --> https://petrican.github.io/
 <!--
 **petrican/petrican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
